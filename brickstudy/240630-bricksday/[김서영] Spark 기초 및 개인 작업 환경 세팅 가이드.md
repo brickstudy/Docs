@@ -1,5 +1,5 @@
 
-# spark local 작업 환경 구축
+# [김서영] spark local 작업 환경 구축
 
 ## Introduction
 
